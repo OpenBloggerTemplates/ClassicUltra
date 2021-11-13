@@ -24,7 +24,7 @@ body {
 <body>
     <!-- How to customize ? Please visit this link: https://github.com/OpenBloggerTemplates/ClassicUltra#customize -->
     <!-- This is example of blogger HTML/JavaScript widget -->
-    <b:section class='classic-ultra' id='classic-ultra' maxwidgets='1' showaddelement='yes' />
+    <b:section class='Classic Ultra Blank Blogger Template' id='Classic Ultra Blank Blogger Template' maxwidgets='1' showaddelement='no' />
     <!-- Widget section ended -->
 </body>
 </html>
