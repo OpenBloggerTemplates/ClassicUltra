@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:templateVersion='2.5' expr:dir='data:blog.languageDirection' lang='id' xml:lang='id' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+    <title>
+        <data:blog.pageTitle/>
+    </title>
+    <meta content='width=device.width, initial-scale=1.0' name='viewport'/>
+    <b:skin><![CDATA[
+/*
+-----------------------------------------------
+Theme Name  : Classic Ultra Blank Blogger Template
+Developer   : Open Blogger Templates
+Website     : https://openbloggertemplates.github.io
+----------------------------------------------- */
+
+/* Add Css Here */
+
+body {
+    background-color:aliceblue;
+}
+]]></b:skin>
+</head>
+<body>
+    <!-- How to customize ? Please visit this link: https://github.com/OpenBloggerTemplates/ClassicUltra#customize -->
+    <!-- This is example of blogger HTML/JavaScript widget -->
+    <b:section class='Classic Ultra Blank Blogger Template' id='Classic Ultra Blank Blogger Template' maxwidgets='1' showaddelement='no' />
+    <!-- Widget section ended -->
+</body>
+</html>
